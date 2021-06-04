@@ -1,4 +1,4 @@
-# Study-Hours-Prediction
+# Study-Hour-Prediction
 
 ## INTRODUCTION:-
 
